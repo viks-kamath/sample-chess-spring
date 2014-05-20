@@ -17,7 +17,7 @@ public class KingMoveValidator extends MoveValidator {
 		
 		if ( !(str.equals("11") || str.equals("01")) || str.equals("10") ) {			
 			if (str.equals("20")) return isCastling(); // see if castling is allowed in the given position for the given side
-			System.out.println("King can only move 'one step horizontal and two steps vertical' or vice-versa!");
+			// King can only move 'one step horizontal and two steps vertical' or vice-versa
 			return false;   
 		}
 					
