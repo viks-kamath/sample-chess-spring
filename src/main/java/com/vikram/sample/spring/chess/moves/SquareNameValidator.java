@@ -1,6 +1,6 @@
 /**
 * SquareNameValidator checks if the given square name (e.g. "d4") is valid 
-* is valid as per the international chess board representation
+* as per the international chess board representation
 *
 * @author  Vikram Kamath
 * @version 1.0
