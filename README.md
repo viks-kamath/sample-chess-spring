@@ -13,3 +13,7 @@ Chess moves validation algorithm (Mavenized, Spring, Junit)
 2) To begin with, start with RookMoveValidatorTest.java<br>
 3) and run the Junit<br>
 
+<b>Note:</b><br>
+While most of the tests are passed, few tests (in KingMoveValidatorTest and PawnMoveValidatorTest) are deliberately failed to remind of @TODOs that are in progress<br> 
+
+
