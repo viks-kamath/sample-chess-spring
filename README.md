@@ -5,7 +5,7 @@ Chess moves validation algorithm (Mavenized, Spring, Junit)
 
 <b>Description</b>: Algorithm(s) that identifies if a given move made on the chess board (simulated as a 2D array) is valid <br>
 <b>Technology</b>: Java, Spring, Maven, JUnit, Annotations<br>
-<b>Design Pattern</b>: Template Pattern<br>
+<b>Design Pattern</b>: Template Pattern, Factory Pattern<br>
 <b>Tools/ IDE</b>: Eclipse or Spring Tool Suite (recommended) <br>
 
 <b>Instructions:</b><br>
