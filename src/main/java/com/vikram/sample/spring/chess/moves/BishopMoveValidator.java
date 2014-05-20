@@ -16,7 +16,6 @@ public class BishopMoveValidator extends MoveValidator {
 	protected boolean isValidPieceMove() {
 		// Bishop can only move diagonally
 		if ( !( Math.abs(x1 - x2) == Math.abs(y1 - y2) )) {
-			System.out.println("Bishop can only move diagonally.");
 			return false;
 		}
 				
